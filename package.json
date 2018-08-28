@@ -101,7 +101,7 @@
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.9.1",
-    "luxcore-build": "heidi-dang/luxcore-build",
+    "luxcore-build": "https://github.com/heidi-dang/luxcore-build.git#master",
     "sinon": "^1.13.0"
   },
   "license": "MIT"
