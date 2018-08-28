@@ -83,7 +83,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/lux-core/luxcore-lib.git"
+    "url": "https://github.com/heidi-dang/luxcore-lib.git"
   },
   "browser": {
     "request": "browser-request"
@@ -101,7 +101,7 @@
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.9.1",
-    "luxcore-build": "lux-core/luxcore-build",
+    "luxcore-build": "heidi-dang/luxcore-build",
     "sinon": "^1.13.0"
   },
   "license": "MIT"
